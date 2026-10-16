@@ -5,6 +5,7 @@
 3. Brainiac
 4. El Joker
 5. Harley Quinn
+6. Dark Side
 
 # Notas
 

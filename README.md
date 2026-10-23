@@ -6,7 +6,7 @@
 ![Release](https://img.shields.io/github/v/release/vasni-jaimes/legion-del-mal)
 ![Issues](https://img.shields.io/github/issues/vasni-jaimes/legion-del-mal)
 ![Último commit](https://img.shields.io/github/last-commit/vasni-jaimes/legion-del-mal)
-![Licencia](https://img.shields.io/github/license/vasni-jaimes/legion-del-mal)
+![Licencia](https://img.shields.io/github/license/vasni-jaimes/legion-del-mal?cacheSeconds=60))
 
 
 
